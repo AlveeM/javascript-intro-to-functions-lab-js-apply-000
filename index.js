@@ -6,6 +6,6 @@ function whisper(string) {
   return string.toLowerCase();
 }
 
-logShout(string) {
+function logShout(string) {
   constole.log(shout(string));
 }
